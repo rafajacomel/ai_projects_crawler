@@ -47,6 +47,6 @@ Bugs conhecidos:
 O programa não consegue processar as queries na ordem desejada. Caso a mensagem de erro 
 'ERROR: Conversion data is not avaiable. Please run again the program' apareça apenas rode de novo o programa.
 
-Features fantantes:
+Features faltantes:
 -------------------
 O requerimento de rodar em docker ficou faltando por falta de tempo do candidato.
