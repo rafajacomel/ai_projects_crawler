@@ -1,4 +1,4 @@
-Desafio semantix
+Crawler example
 ----------------
 Desafio proposto pela empresa semantix para gerar um crawler para 3 páginas:
 
