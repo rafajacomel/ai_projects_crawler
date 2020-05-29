@@ -27,7 +27,7 @@ Pré-requisitos para rodar o report:
 
 Para rodar a aplicação
 ----------------------
-1)Importar o diretorio desafioSemantix
+1)Importar o diretorio ai_projects_crawler
 2)Na linha de comando digitar scrapy crawl stockmarketspider -L WARNING -a basicpath <nome do diretorio onde os arquivos .csv ficarão>
 Obs: O programa possui um bug que nao foi resolvido que é fazer o scrawler das url em ordem ( a 
 url https://m.investing.com/currencies/usd-brl-historical-data tem de ser processada primeiro) caso a mensagem de erro 
